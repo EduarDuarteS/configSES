@@ -1,0 +1,25 @@
+{
+  "name": "configses",
+  "version": "1.0.0",
+  "description": "Programa para configurar plantillas html SES",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EduarDuarteS/configSES.git"
+  },
+  "keywords": [
+    "SES"
+  ],
+  "author": "Eduard Duarte Sepúlveda",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EduarDuarteS/configSES/issues"
+  },
+  "homepage": "https://github.com/EduarDuarteS/configSES#readme",
+  "dependencies": {
+    "aws-sdk": "^2.630.0"
+  }
+}
