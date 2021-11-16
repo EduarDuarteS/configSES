@@ -20,6 +20,6 @@
   },
   "homepage": "https://github.com/EduarDuarteS/configSES#readme",
   "dependencies": {
-    "aws-sdk": "^2.630.0"
+    "aws-sdk": "^2.814.0"
   }
 }
